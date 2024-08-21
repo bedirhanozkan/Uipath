@@ -1,0 +1,2 @@
+Config içinde Queue Name değerini güncelle
+Uygulama içinde AcmeV3 uygulaması yol uzantılarını update le.
